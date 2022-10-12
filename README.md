@@ -1,3 +1,9 @@
+# Work in Pogress - Not ready for use
+---
+**The only reason I made it public before finishing it, so that I dont procastinate on it.**
+
+---
+And yes I will update this readme (all mess) later. :P
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
