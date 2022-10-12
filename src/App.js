@@ -19,13 +19,13 @@ const App = () => {
     },
     {
       id: 4,
-      title: "women",
-      imageUrl: "https://source.unsplash.com/random/?women,fashion",
+      title: "men fashion",
+      imageUrl: "https://source.unsplash.com/random/?man,fashion",
     },
     {
       id: 5,
-      title: "men",
-      imageUrl: "https://source.unsplash.com/random/?men,fashion",
+      title: "women fashion",
+      imageUrl: "https://source.unsplash.com/random/?woman,fashion",
     },
   ];
 
